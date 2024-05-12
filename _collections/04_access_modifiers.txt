@@ -1,0 +1,11 @@
+Access Modifires = Visibality Markers
+
+public: 
+    -anywhere.
+    -default for methods (لو إنته ما حددتش ).
+
+protected: 
+    -from the class itself - or it's childs.
+
+private: 
+    -only from the class.
