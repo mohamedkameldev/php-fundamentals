@@ -1,5 +1,0 @@
-Notice
-
-Warning
-
-Fatal Error
