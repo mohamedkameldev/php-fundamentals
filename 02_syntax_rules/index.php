@@ -5,7 +5,7 @@
  *
  * Case-insensitive:
  *      - PHP constructs such as if, if-else, if-elseif, switch, while, do-while, etc.
- *      - Keywords such as true and false.
+ *      - Keywords such as true, false, and.
  *      - User-defined function & class names.
  *
  * Case-sensitive:

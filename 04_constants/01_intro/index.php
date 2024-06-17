@@ -2,7 +2,7 @@
 
 /*
  * Constant is Immutable,
- * and that means the value of a constant cannot be changed during the execution of the PHP script.
+ * that means the value of a constant cannot be changed during the execution of the PHP script.
  *
  * Constant names:
  *      - doesn’t start with dollar sign($).
