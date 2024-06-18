@@ -1,0 +1,3 @@
+This is a text file
+it will be converted to an array
+each line will be an element in the array.
