@@ -1,5 +1,13 @@
 <?php
 
+/**
+ * using foreach: you don’t need to know the number of elements in an array upfront.
+ *
+ * When PHP encounters a foreach statement,
+ * it assigns the first element of the array to the variable following the as keyword ($element).
+ * In each iteration, PHP assigns the next array element to the $element variable.
+ * If PHP reaches the last element, the loop ends.
+ */
 $cities = ['Cairo', 'Mansoura', 'Alex', 'Giza', 'Aswan'];
 
 $ages = [
