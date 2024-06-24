@@ -1,5 +1,10 @@
 <?php
 
+$f = 'strlen';
+echo $f('Hello world') . '<br>'; // 11
+// this is a variable function (callable) - we use a variable to call a function
+
+//-----------------------------------------------------------------------
 
 function my_function($param)
 {
